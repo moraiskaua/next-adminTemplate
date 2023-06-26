@@ -18,6 +18,7 @@ Este é um template para construção de uma aplicação de administração.
 - [TypeScript](https://www.typescriptlang.org/): Uma linguagem de programação que adiciona tipagem estática ao JavaScript.
 - [Axios](https://axios-http.com/): Biblioteca para fazer requisições HTTP.
 - [Firebase](https://firebase.google.com/): Plataforma de desenvolvimento de aplicativos web e móveis.
+- [Tailwind CSS](https://tailwindcss.com/): Uma estrutura CSS utilitária para construir interfaces personalizadas rapidamente.
 
 ## Imagens
 
